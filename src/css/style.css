@@ -1,0 +1,15 @@
+/* Základné štýly pre Worms JS hru */
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Prípadné ďalšie štýly pre HTML prvky mimo canvas budú definované v index.html */
